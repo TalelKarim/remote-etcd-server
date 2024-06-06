@@ -1,0 +1,6 @@
+etcd_backup_restore.txt
+etcd-key-pair.pem
+.terraform
+.terraform.lock.hcl
+terraform.tfstate.backup
+terraform.tfstate
